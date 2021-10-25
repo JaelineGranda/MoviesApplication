@@ -8,8 +8,14 @@ Movies Application
 
 
 Technologies Used:
+
 -Java EE
+
 -JSP
+
 -JSTL
+
 -JDBC
+
 -MVC Framework
+
